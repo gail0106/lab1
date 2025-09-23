@@ -1,3 +1,3 @@
 <?php
-	echo "XAMPP is working fine!";
+	echo "XAMPP is running successfully!";
 ?>
